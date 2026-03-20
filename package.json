@@ -1,5 +1,5 @@
 {
-  "name": "unified-news",
+  "name": "unified-news-digest",
   "version": "1.0.0",
   "description": "统一新闻获取与推送服务",
   "main": "SKILL.md",
